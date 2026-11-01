@@ -10,10 +10,10 @@ My interests include **iOS development**, **embedded systems**, **PCB design**, 
 
 ## Currently Building
 
-- [**Apex Telemetry**](https://github.com/ichewradon/apex-telemetry) — Adaptive Forza telemetry dashboard for iOS
-- [**FieldBook**](https://github.com/ichewradon/fieldbook) — Rugged offline survival device
-- [**Homelab**](https://github.com/ichewradon/homelab) — Self-hosted infrastructure and automation
-- [**hackpad-v5**](https://github.com/ichewradon/hackpad-v5) — Custom mechanical macropad built with Hack Club
+- [**Apex Telemetry**](https://github.com/jameswwilkes/apex-telemetry) — Adaptive Forza telemetry dashboard for iOS
+- [**FieldBook**](https://github.com/jameswwilkes/fieldbook) — Rugged offline survival device
+- [**Homelab**](https://github.com/jameswwilkes/homelab) — Self-hosted infrastructure and automation
+- [**hackpad-v5**](https://github.com/jameswwilkes/hackpad-v5) — Custom mechanical macropad built with Hack Club
 
 ---
 
